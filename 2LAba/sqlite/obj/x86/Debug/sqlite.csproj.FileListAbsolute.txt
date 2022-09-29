@@ -1,0 +1,28 @@
+D:\VS_2010\sqlite\bin\Debug\sqlite.exe
+D:\VS_2010\sqlite\bin\Debug\sqlite.pdb
+D:\VS_2010\sqlite\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VS_2010\sqlite\obj\x86\Debug\sqlite.Form1.resources
+D:\VS_2010\sqlite\obj\x86\Debug\sqlite.Properties.Resources.resources
+D:\VS_2010\sqlite\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\VS_2010\sqlite\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\VS_2010\sqlite\obj\x86\Debug\sqlite.exe
+D:\VS_2010\sqlite\obj\x86\Debug\sqlite.pdb
+D:\VS_2010\sqlite\bin\Debug\SQLite.NET.dll
+D:\Mega\Институт\По работе\По Учебе\СУБД\Лабораторная работа 5 - SQLITE\sqllitesolution\VS_2010\sqlite\obj\x86\Debug\sqlite.exe
+D:\Mega\Институт\По работе\По Учебе\СУБД\Лабораторная работа 5 - SQLITE\sqllitesolution\VS_2010\sqlite\obj\x86\Debug\sqlite.pdb
+D:\Mega\Институт\По работе\По Учебе\СУБД\Лабораторная работа 5 - SQLITE\sqllitesolution\VS_2010\sqlite\bin\Debug\sqlite.exe
+D:\Mega\Институт\По работе\По Учебе\СУБД\Лабораторная работа 5 - SQLITE\sqllitesolution\VS_2010\sqlite\bin\Debug\sqlite.pdb
+D:\Mega\Институт\По работе\По Учебе\СУБД\Лабораторная работа 5 - SQLITE\sqllitesolution\VS_2010\sqlite\obj\x86\Debug\sqlite.csprojResolveAssemblyReference.cache
+D:\Mega\Институт\По работе\По Учебе\СУБД\Лабораторная работа 5 - SQLITE\sqllitesolution\VS_2010\sqlite\obj\x86\Debug\sqlite.Form1.resources
+D:\Mega\Институт\По работе\По Учебе\СУБД\Лабораторная работа 5 - SQLITE\sqllitesolution\VS_2010\sqlite\obj\x86\Debug\sqlite.Properties.Resources.resources
+D:\Mega\Институт\По работе\По Учебе\СУБД\Лабораторная работа 5 - SQLITE\sqllitesolution\VS_2010\sqlite\obj\x86\Debug\sqlite.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\БД (3курс)\Bd 1  laba\Лабораторная работа 3 - SQLITE\Solution\sqlite\bin\Debug\sqlite.exe
+C:\Users\Admin\Desktop\БД (3курс)\Bd 1  laba\Лабораторная работа 3 - SQLITE\Solution\sqlite\bin\Debug\sqlite.pdb
+C:\Users\Admin\Desktop\БД (3курс)\Bd 1  laba\Лабораторная работа 3 - SQLITE\Solution\sqlite\obj\x86\Debug\sqlite.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\БД (3курс)\Bd 1  laba\Лабораторная работа 3 - SQLITE\Solution\sqlite\obj\x86\Debug\sqlite.Form1.resources
+C:\Users\Admin\Desktop\БД (3курс)\Bd 1  laba\Лабораторная работа 3 - SQLITE\Solution\sqlite\obj\x86\Debug\sqlite.Properties.Resources.resources
+C:\Users\Admin\Desktop\БД (3курс)\Bd 1  laba\Лабораторная работа 3 - SQLITE\Solution\sqlite\obj\x86\Debug\sqlite.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\БД (3курс)\Bd 1  laba\Лабораторная работа 3 - SQLITE\Solution\sqlite\obj\x86\Debug\sqlite.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\БД (3курс)\Bd 1  laba\Лабораторная работа 3 - SQLITE\Solution\sqlite\obj\x86\Debug\sqlite.csproj.CopyComplete
+C:\Users\Admin\Desktop\БД (3курс)\Bd 1  laba\Лабораторная работа 3 - SQLITE\Solution\sqlite\obj\x86\Debug\sqlite.exe
+C:\Users\Admin\Desktop\БД (3курс)\Bd 1  laba\Лабораторная работа 3 - SQLITE\Solution\sqlite\obj\x86\Debug\sqlite.pdb

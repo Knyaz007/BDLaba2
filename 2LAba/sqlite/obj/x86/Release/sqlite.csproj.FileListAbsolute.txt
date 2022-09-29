@@ -1,0 +1,10 @@
+D:\VS_2010\sqlite\bin\Release\sqlite.exe
+D:\VS_2010\sqlite\bin\Release\sqlite.pdb
+D:\VS_2010\sqlite\bin\Release\SQLite.NET.dll
+D:\VS_2010\sqlite\obj\x86\Release\ResolveAssemblyReference.cache
+D:\VS_2010\sqlite\obj\x86\Release\sqlite.Form1.resources
+D:\VS_2010\sqlite\obj\x86\Release\sqlite.Properties.Resources.resources
+D:\VS_2010\sqlite\obj\x86\Release\GenerateResource.read.1.tlog
+D:\VS_2010\sqlite\obj\x86\Release\GenerateResource.write.1.tlog
+D:\VS_2010\sqlite\obj\x86\Release\sqlite.exe
+D:\VS_2010\sqlite\obj\x86\Release\sqlite.pdb
